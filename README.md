@@ -27,5 +27,3 @@ The University Endowment Fund case study looks at two datasets of university end
 9. Were there more increase or decreases in the mv of endowments in 2023?
 10. Find the quartile ranges of the delta_mv.
 
-Please Note: 
-Data points in both sets are in 1,000s and assumptions 
