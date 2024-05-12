@@ -7,7 +7,7 @@ Access to financial services is a crucial factor in overall financial health. Th
 
 **Data Acquisition and Preprocessing**
 
-Source: Ratcliffe, Caroline, Signe-Mary McKernan, Emma Kalish, and Steven Martin. 2015. “Where are the Unbanked and Underbanked in New York City?” Washington, DC: Urban Institute.
+Source: [Ratcliffe, Caroline, Signe-Mary McKernan, Emma Kalish, and Steven Martin. 2015. “Where are the Unbanked and Underbanked in New York City?” Washington, DC: Urban Institute.](https://data.cityofnewyork.us/Business/Where-Are-the-Unbanked-and-Underbanked-in-New-York/v5w4-adxa/about_data)
 
 This project uses NYC open data to find out more about the unbanked population in New York City across multiple years. The data includes information, divided by city neighborhood, on the percentages of unbanked residents, foreign-born residents, median incomes and unemployment rates. 
 
